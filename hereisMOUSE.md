@@ -1,2 +1,2 @@
 pls meet mouse
-[https://github.com/mzurilla.png!]
+![mouse](https://github.com/mzurilla.png!)
